@@ -77,12 +77,12 @@ AUC-ROC **0.8863**
 
 ### 🏙️ Urbix
 
-Application focused on reporting and tracking urban incidents.
+Web platform focused on reporting and tracking urban incidents.
 
 **Technologies:**  
-`Kotlin` `Android Studio`
+`Vue.js` `JavaScript` `Node.js / PHP` `Google Maps`
 
-Work includes interface development, report forms, navigation and user flows.
+Work includes report forms, geographic visualization, multimedia evidence and frontend/backend validations.
 
 </td>
 <td width="33%" valign="top">
