@@ -1,78 +1,146 @@
-# Hola, soy Roberto Pérez Ángeles 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Roberto%20P%C3%A9rez%20%C3%81ngeles&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Software%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=62&descSize=17" width="100%" />
+</div>
 
-Estudiante de **Ingeniería en Sistemas Computacionales en ESCOM - IPN**, con interés en **desarrollo de software, inteligencia artificial, bases de datos y ciberseguridad**.
+<div align="center">
 
-Actualmente desarrollo proyectos académicos y personales para fortalecer mis conocimientos en programación, Machine Learning y construcción de aplicaciones.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Software+Development+%F0%9F%92%BB;Machine+Learning+%F0%9F%A4%96;Cybersecurity+%F0%9F%94%90;Always+learning+and+building+new+projects)](https://git.io/typing-svg)
 
-## 🛠️ Habilidades técnicas
+</div>
 
-### Lenguajes
-`Python` · `C#` · `Java` · `PHP` · `JavaScript` · `C` · `SQL` · `Kotlin`
+<div align="center">
 
-### Desarrollo
-`Android Studio` · `Vue.js` · `Windows Forms` · `Node.js` · `HTML/CSS`
+[![GitHub](https://img.shields.io/badge/GitHub-zxeus--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zxeus-gif)
+<img src="https://komarev.com/ghpvc/?username=zxeus-gif&style=for-the-badge&color=7c3aed" alt="Profile views" />
 
-### Bases de datos
-`MySQL` · `SQL Server`
-
-### Data & Machine Learning
-`Pandas` · `scikit-learn` · `Jupyter Notebook`
-
-### Herramientas y tecnologías
-`Git` · `GitHub` · `Linux` · `Wireshark` · `Packet Tracer` · `XAMPP`
-
-## 🚀 Proyectos destacados
-
-### 🤖 Predicción de supervivencia en el Titanic
-Proyecto de **clasificación supervisada** desarrollado con Python y scikit-learn.
-
-- Limpieza y preprocesamiento de datos.
-- Tratamiento de valores faltantes y variables categóricas.
-- Comparación de Regresión Logística, KNN, Árbol de Decisión, Random Forest e HistGradientBoosting.
-- Evaluación con Accuracy, Precision, Recall, F1-score, matriz de confusión y AUC-ROC.
-- Mejor resultado obtenido: **AUC-ROC de 0.8863**.
-
-### 🏙️ Urbix
-Aplicación orientada al **registro y seguimiento de incidencias urbanas**, desarrollada como proyecto académico.
-
-- Desarrollo de interfaz y lógica para reportes urbanos.
-- Trabajo con desarrollo móvil en Kotlin y Android Studio.
-- Diseño de formularios, navegación y flujo de usuario.
-
-### 🔐 Implementación de algoritmos criptográficos
-Proyecto académico enfocado en comprender y aplicar distintos métodos criptográficos.
-
-- Implementaciones y prácticas con `AES`, `DES` y `RSA`.
-- Cifrado y descifrado de información.
-- Fundamentos de criptografía simétrica y asimétrica.
-
-## 🧠 Otros temas que he trabajado
-
-- Algoritmos de búsqueda `BFS` y `A*`.
-- Agentes inteligentes y Mundo de Wumpus.
-- KNN y árboles de decisión.
-- Random Forest, Bagging y Gradient Boosting.
-- Redes neuronales con datasets como MNIST y Fashion MNIST.
-- Análisis exploratorio y visualización de datasets.
-- Redes, análisis de tráfico y fundamentos de ciberseguridad.
-
-## 🎯 Intereses profesionales
-
-Busco seguir desarrollando experiencia en:
-
-- Desarrollo de software
-- Backend
-- Machine Learning / Data
-- Tecnologías de la información
-- Ciberseguridad
-
-## 📚 Actualmente aprendiendo
-
-- Desarrollo Android con Kotlin
-- Machine Learning con Python
-- Excel aplicado al análisis de datos
-- Fundamentos y herramientas de ciberseguridad
+</div>
 
 ---
 
-⭐ En este perfil iré publicando proyectos académicos y personales relacionados con desarrollo de software, inteligencia artificial y seguridad informática.
+## 👨‍💻 About Me
+
+I am a **Computer Systems Engineering student at ESCOM - IPN** interested in **software development, artificial intelligence, databases and cybersecurity**.
+
+I enjoy building academic and personal projects that help me strengthen my programming skills, understand how systems work and apply what I learn to real problems.
+
+- 🔭 Currently working on software and Android projects.
+- 🌱 Learning more about Machine Learning, cybersecurity and data analysis.
+- 🧠 Interested in backend development, AI and IT.
+- 🎯 Looking to continue gaining professional experience through technology-related projects and opportunities.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cs,java,php,javascript,c,kotlin" />
+
+### Development
+<img src="https://skillicons.dev/icons?i=androidstudio,vue,nodejs,html,css,dotnet" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Data & Machine Learning
+<img src="https://skillicons.dev/icons?i=python" />
+
+`Pandas` · `scikit-learn` · `Jupyter Notebook` · `Supervised Learning`
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+
+`Wireshark` · `Packet Tracer` · `XAMPP`
+
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 Titanic Survival Prediction
+
+Supervised Machine Learning project focused on predicting passenger survival.
+
+**Technologies:**  
+`Python` `Pandas` `scikit-learn`
+
+**Models:**  
+Logistic Regression, KNN, Decision Tree, Random Forest and HistGradientBoosting.
+
+**Best result:**  
+AUC-ROC **0.8863**
+
+</td>
+<td width="33%" valign="top">
+
+### 🏙️ Urbix
+
+Application focused on reporting and tracking urban incidents.
+
+**Technologies:**  
+`Kotlin` `Android Studio`
+
+Work includes interface development, report forms, navigation and user flows.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Cryptographic Algorithms
+
+Academic implementations created to understand symmetric and asymmetric cryptography.
+
+**Technologies:**  
+`C#` `AES` `DES` `RSA`
+
+Includes encryption, decryption and key-management concepts.
+
+</td>
+</tr>
+</table>
+
+> Repositories for these projects will be added progressively as they are organized and documented.
+
+## 🧠 Other Topics I Have Worked With
+
+- Search algorithms: **BFS and A\***
+- Intelligent agents and the **Wumpus World**
+- **KNN** and Decision Trees
+- **Random Forest, Bagging and Gradient Boosting**
+- Neural networks with **MNIST and Fashion MNIST**
+- Exploratory data analysis and visualization
+- Networking, traffic analysis and cybersecurity fundamentals
+
+## 🎓 Education
+
+<div align="center">
+
+| Program | Institution |
+|---|---|
+| **Computer Systems Engineering** | **IPN - ESCOM** |
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxeus-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxeus-gif&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zxeus-gif&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <b>Building, learning and improving one project at a time.</b>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer" width="100%" />
+</div>
