@@ -102,16 +102,6 @@ Includes encryption, decryption and key-management concepts.
 
 > Repositories for these projects will be added progressively as they are organized and documented.
 
-## 🧠 Other Topics I Have Worked With
-
-- Search algorithms: **BFS and A\***
-- Intelligent agents and the **Wumpus World**
-- **KNN** and Decision Trees
-- **Random Forest, Bagging and Gradient Boosting**
-- Neural networks with **MNIST and Fashion MNIST**
-- Exploratory data analysis and visualization
-- Networking, traffic analysis and cybersecurity fundamentals
-
 ## 🎓 Education
 
 <div align="center">
@@ -120,19 +110,6 @@ Includes encryption, decryption and key-management concepts.
 |---|---|
 | **Computer Systems Engineering** | **IPN - ESCOM** |
 
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxeus-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxeus-gif&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zxeus-gif&theme=tokyonight" width="100%" />
 </div>
 
 ---
